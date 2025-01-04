@@ -30,3 +30,7 @@ This is a simple monorepo built with [Turborepo](https://turborepo.org).
 - [Turborepo documentation](https://turborepo.org/docs)
 - [Next.js documentation](https://nextjs.org/docs)
 - [Recoil documentation](https://recoiljs.org/docs/introduction/installation)
+
+## for education only
+
+lets learn
